@@ -12,7 +12,8 @@
     "eslint-plugin-flowtype": "^2.30.4",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
-    "eslint-plugin-react": "^6.10.3"
+    "eslint-plugin-react": "^6.10.3",
+    "eslint-config-react-app": "^0.6.2"
   },
   "peerDependencies": {
     "eslint": "^3.18.0"
