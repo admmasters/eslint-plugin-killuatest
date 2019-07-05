@@ -1,4 +1,7 @@
 # eslint-plugin-killua
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/admmasters/eslint-plugin-killuatest.svg)](https://greenkeeper.io/)
+
 This plugin exposes the ESLint configuration used by the Killua React starter kit so that you only have one eslint dependency.
 
 ## Setup
